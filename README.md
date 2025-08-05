@@ -22,7 +22,7 @@ The main features currently planned or implemented include:
 
 1. Automatic product delivery – **[Currently: Implemented with workarounds]**
 2. Welcome message to the buyer – **[Currently: Implemented]**
-3. ]Auto bumping of offers – **[Currently: Not implemented]**
+3. Auto bumping of offers – **[Currently: Not implemented]**
 4. Auto-purchase of Telegram Premium / Stars – **[Currently: Not implemented]**
 5. Telegram notifications – **[Currently: Not implemented]**
 6. Discord notifications – **[Currently: Not implemented]**
